@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1008301921200",
+    "project_id": "coursecraftapp2",
+    "storage_bucket": "coursecraftapp2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008301921200:android:5c79434c7e0230e861fc75",
+        "android_client_info": {
+          "package_name": "com.example.coursecraftapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQETmyDnkcx40KmE3BTO3u5vg4B1Dpcuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
